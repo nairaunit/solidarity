@@ -7,7 +7,7 @@
  *NUNIT Finance smart_contract project for Naira holders community submitted to etherscan.io 14-10-2020
 */
     // Twitter : https://twitter.com/nairaunit
-    // Website : https://nunit.finance
+    // Website : https://nairaunit.finance
     
 pragma solidity 0.5.17;
 
